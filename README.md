@@ -1,16 +1,20 @@
-## Hi there 👋
+Hello 👋 I'm Eyerusalem Zewde
 
-<!--
-**eyu127/eyu127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student  
+💻 Currently learning JavaScript and Python  
+🚀 Beginner programmer passionate about technology  
 
-Here are some ideas to get you started:
+## 🌱 What I’m Learning
+- Javascript
+- Python
+- Web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Projects
+I will upload my programming projects and practice codes here.
+
+## 🎯 My Goal
+To become a skilled software developer and build useful technology.
+
+#### 📫 Contact
+
+Email:tersitzewde056@gmail.com
